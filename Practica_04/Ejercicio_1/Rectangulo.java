@@ -14,8 +14,8 @@ public class Rectangulo {
       this.altura = altura;
     }
     /**Metodo constructor que genera un rectangulo con valores predeterminados
-    *@param base      Valor de la base del rectangulo igual a 10
-    *@param altura    Valor de la altura del rectangulo igual a 10
+    *Valor de la base del rectangulo igual a 10
+    *Valor de la altura del rectangulo igual a 10
     */
     public Rectangulo(){
       this.base = 10.0;

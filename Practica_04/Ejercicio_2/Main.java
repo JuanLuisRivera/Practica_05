@@ -4,7 +4,7 @@
 */
 import java.util.Scanner;
 
-class Main{
+public class Main{
   /**
   *Programa que prueba la generacion de dos cuentas bancarios, una predefinida y la otra con valores proporcionados por el usuario
   */

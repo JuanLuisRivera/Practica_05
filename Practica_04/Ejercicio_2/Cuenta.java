@@ -7,15 +7,15 @@ public class Cuenta {
     private double dineroDisponible;
     /**Metodo constructor que genera un rectangulo con valores proporcionados por el usuario
     *@param titular             Nombre de la persona asociada a la cuenta proporcionada por el usuario
-    *@param dineroDisponible    Valor del dinero asociado a la cuenta igual a 0.0
+    *Valor del dinero asociado a la cuenta igual a 0.0
     */
     public Cuenta(String titular){
       this.titular = titular;
       this.dineroDisponible = 0.0;
     }
     /**Metodo constructor que genera un rectangulo con valores predeterminados
-    *@param titular             Nombre de la persona asociada a la cuenta igual a Rivera Ibarra Juan Luis
-    *@param dineroDisponible    Valor del dinero asociado a la cuenta igual a 10
+    *Nombre de la persona asociada a la cuenta igual a Rivera Ibarra Juan Luis
+    *Valor del dinero asociado a la cuenta igual a 10
     */
     public Cuenta(){
       this.titular = "Rivera Ibarra Juan Luis";
@@ -35,13 +35,13 @@ public class Cuenta {
       return dineroDisponible;
     }
     /**Establece el nombre del titular asociado a la cuenta
-    *@param settitular  Cadena del nombre del titular asociado a la cuenta
+    *@param titular  Cadena del nombre del titular asociado a la cuenta
     */
     public void settitular(String titular){
       this.titular = titular;
     }
     /**Establece el valor del dinero asociado a la cuenta
-    *@param setdineroDisponible  Valor en tipo double del dinero asociado a la cuenta
+    *@param dineroDisponible  Valor en tipo double del dinero asociado a la cuenta
     */
     public void setdineroDisponible(double dineroDisponible){
       this.dineroDisponible = dineroDisponible;

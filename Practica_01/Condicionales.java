@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class Condicionales{
+public class Condicionales{
   /**
   *Programa que compara dos numeros enteros y regresa el numero mayor
   */

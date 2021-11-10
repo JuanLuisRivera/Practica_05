@@ -3,7 +3,7 @@
 *@version 1.0
 */
 
-class CicloWhile{
+public class CicloWhile{
   /**
   *Programa que analiza los numeros menores a 1000 y determina cuales son primos
   */

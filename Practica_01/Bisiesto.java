@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class Bisiesto{
+public class Bisiesto{
   /**
   *Programa que analiza un año y determina si tiene 365 (No bisiesto) o 366 dias(Bisiesto)
   */

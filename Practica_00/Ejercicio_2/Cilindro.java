@@ -2,7 +2,7 @@
 *@author Juan Luis Rivera Ibarra
 *@version 1.0
 */
-class Cilindro{
+public class Cilindro{
   /**
   *Programa que regresa volumen y area de un cilindro predeterminado
   */

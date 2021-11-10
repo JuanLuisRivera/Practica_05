@@ -4,7 +4,7 @@
 */
 import java.util.Scanner;
 
-class Main{
+public class Main{
   /**
   *Programa que prueba la construccion de dos rectangulos, uno predefinido y el otro con valores proporcionador por el usuario
   */

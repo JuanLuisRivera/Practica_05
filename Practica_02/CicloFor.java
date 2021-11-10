@@ -2,7 +2,7 @@
 *@author Juan Luis Rivera Ibarra
 *@version 1.0
 */
-class CicloFor{
+public class CicloFor{
   /**
   *Programa que analiza todos los numeros menores a 1000 para deteminar cuales son primos
   */
